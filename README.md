@@ -10,7 +10,7 @@ I'm Inês, a Fullstack Developer from Portugal. Currently living and working in 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ines.nunesaguas@gmail.com)
 
 
-# 🧰 Some Tools I Have Used and Learned
+# 🧰 Some tools I have used and learned
 
 ### My programming languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
