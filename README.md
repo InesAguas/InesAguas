@@ -2,8 +2,8 @@
 
 I'm Inês, a Fullstack Developer from Portugal. Currently living and working in Switzerland, where I've spent most of my childhood.
 
-- 🌱 I’m currently learning **React**
-- 🎮 My hobbies include: **Crochet**, **Gaming**, and **Reading**
+- 🌱 I’m working with **Typescript**
+- 🎮 My hobbies include: **Crochet**, **Gaming**, and **Traveling**
 
 # 💌 Let's connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inesaguas/)
